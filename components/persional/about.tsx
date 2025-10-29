@@ -41,7 +41,7 @@ export default function AboutSection() {
           className="flex justify-center"
         >
           <Image
-            src="/images/about.png" // apna custom image yaha dalna
+            src="/images/areaknock.png" // apna custom image yaha dalna
             alt="About AreaKnotch Labs"
             width={500}
             height={400}
