@@ -14,7 +14,7 @@ export default function DocsComingSoon() {
         <CardContent className="space-y-6">
           <h1 className="text-3xl font-bold">📖 Docs Coming Soon</h1>
           <p className="text-muted-foreground">
-            Thanks for visiting! We’re working hard to prepare documentation for Alnnovate.  
+            Thanks for visiting! We’re working hard to prepare documentation for AreaKnotch Labs.  
             Stay tuned, it’ll be available here very soon 🚀
           </p>
           <Button onClick={() => router.push("/")}>

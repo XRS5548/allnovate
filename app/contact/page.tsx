@@ -61,7 +61,7 @@ export default function ContactPage() {
         <div className="space-y-6">
           <h2 className="text-2xl font-semibold">Contact Information</h2>
           <p className="text-muted-foreground">
-            Have questions about Alnnovate? We’d love to hear from you. Reach out via form or use the details below.
+            Have questions about AreaKnotch Labs? We’d love to hear from you. Reach out via form or use the details below.
           </p>
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
@@ -70,7 +70,7 @@ export default function ContactPage() {
             </div>
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5" />
-              <span>contact@alnnovate.com</span>
+              <span>contact@AreaKnotch Labs.com</span>
             </div>
             <div className="flex items-center space-x-3">
               <Phone className="w-5 h-5" />

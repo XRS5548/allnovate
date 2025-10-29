@@ -43,11 +43,11 @@ function Logo() {
   return (
     <Link href="/" className="flex items-center gap-2 select-none">
       {LOGO_SRC ? (
-        <Image src={LOGO_SRC} alt="Alnnovate" width={28} height={28} className="rounded-lg" />
+        <Image src={LOGO_SRC} alt="AreaKnotch Labs" width={28} height={28} className="rounded-lg" />
       ) : (
         <Hexagon className="h-6 w-6" />
       )}
-      <span className="font-semibold tracking-tight">Alnnovate</span>
+      <span className="font-semibold tracking-tight">AreaKnotch Labs</span>
     </Link>
   );
 }
@@ -91,7 +91,7 @@ function DesktopNav() {
           </Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="start" className="min-w-56">
-          <DropdownMenuLabel>Build with Alnnovate</DropdownMenuLabel>
+          <DropdownMenuLabel>Build with AreaKnotch Labs</DropdownMenuLabel>
           <DropdownMenuSeparator />
           {PRODUCT_ITEMS.map((item) => (
             <DropdownMenuItem key={item.href} asChild>
@@ -153,7 +153,7 @@ function MobileMenu() {
       <SheetContent side="left" className="p-0">
         <SheetHeader className="px-4 py-3 text-left">
           <SheetTitle className="flex items-center gap-2">
-            <Hexagon className="h-5 w-5" /> Alnnovate
+            <Hexagon className="h-5 w-5" /> AreaKnotch Labs
           </SheetTitle>
         </SheetHeader>
         <Separator />

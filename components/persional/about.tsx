@@ -17,15 +17,15 @@ export default function AboutSection() {
           className="space-y-6"
         >
           <h2 className="text-4xl font-bold tracking-tight">
-            About <span className="text-primary">Alnnovate</span>
+            About <span className="text-primary">AreaKnotch Labs</span>
           </h2>
           <p className="text-lg leading-relaxed">
-            Alnnovate is an innovation-driven startup building accessible and impactful 
+            AreaKnotch Labs is an innovation-driven startup building accessible and impactful 
             technologies. Our mission is to empower people, creators, and businesses 
             with AI, training, and community support.
           </p>
           <p className="text-lg leading-relaxed">
-            With <span className="font-semibold">Alnnovate Academy</span>,{" "}
+            With <span className="font-semibold">AreaKnotch Labs Academy</span>,{" "}
             <span className="font-semibold">Community</span>, and{" "}
             <span className="font-semibold">Trainers</span>, we are creating 
             opportunities for learning, collaboration, and career growth.
@@ -42,7 +42,7 @@ export default function AboutSection() {
         >
           <Image
             src="/images/about.png" // apna custom image yaha dalna
-            alt="About Alnnovate"
+            alt="About AreaKnotch Labs"
             width={500}
             height={400}
             className="rounded-2xl shadow-lg"

@@ -45,7 +45,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10">
         {/* Brand */}
         <div>
-          <h3 className="text-lg font-semibold">Alnnovate</h3>
+          <h3 className="text-lg font-semibold">AreaKnotch Labs</h3>
           <p className="mt-2 text-sm max-w-xs">
             Building innovative, accessible, and impactful AI solutions to empower people and businesses worldwide.
           </p>
@@ -72,7 +72,7 @@ export default function Footer() {
 
       {/* Bottom */}
       <div className="mx-auto max-w-7xl px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
-        <p className="text-sm">© {new Date().getFullYear()} Alnnovate. All rights reserved.</p>
+        <p className="text-sm">© {new Date().getFullYear()} AreaKnotch Labs. All rights reserved.</p>
         <div className="flex gap-4">
           {SOCIAL_LINKS.map(({ href, icon: Icon }) => (
             <Link key={href} href={href} target="_blank" rel="noopener noreferrer" aria-label={href}>

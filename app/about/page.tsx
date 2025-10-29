@@ -10,9 +10,9 @@ export default function AboutPage() {
         
         {/* Hero Section */}
         <div className="text-center space-y-6">
-          <h1 className="text-4xl font-bold">About <span className="text-primary">Alnnovate</span></h1>
+          <h1 className="text-4xl font-bold">About <span className="text-primary">AreaKnotch Labs</span></h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Alnnovate is an AI and Data Science startup with a mission to build 
+            AreaKnotch Labs is an AI and Data Science startup with a mission to build 
             innovative, accessible, and impactful technologies that empower 
             people, creators, and businesses worldwide.
           </p>
@@ -23,7 +23,7 @@ export default function AboutPage() {
           <h2 className="text-3xl font-semibold text-center">Our Story</h2>
           <p className="text-muted-foreground leading-relaxed text-justify">
             Founded in 2025 by <b>Michael Carter</b> (CEO) and <b>Ashish</b> (Co-Founder & CTO), 
-            Alnnovate started with a vision to simplify access to powerful AI tools and APIs. 
+            AreaKnotch Labs started with a vision to simplify access to powerful AI tools and APIs. 
             From building intelligent solutions to fostering a strong developer community, 
             our journey has always been driven by innovation and collaboration.
           </p>

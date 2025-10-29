@@ -16,7 +16,7 @@ export default function HeroSection() {
           transition={{ duration: 0.6 }}
           className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight mb-6"
         >
-          Empowering Innovation with <span className="text-primary">Alnnovate</span>
+          Empowering Innovation with <span className="text-primary">AreaKnotch Labs</span>
         </motion.h1>
 
         {/* Subtitle */}
@@ -53,7 +53,7 @@ export default function HeroSection() {
         >
           <Image
             src="/hero-preview.png"
-            alt="Alnnovate preview"
+            alt="AreaKnotch Labs preview"
             width={1200}
             height={600}
             className="rounded-2xl shadow-lg"

@@ -6,21 +6,21 @@ import { Users, GraduationCap, Briefcase } from "lucide-react";
 
 const BRANCHES = [
   {
-    title: "Alnnovate Academy",
+    title: "AreaKnotch Labs Academy",
     description:
       "Training programs, online courses, and certifications to help students and professionals upskill in AI, Data Science, and more.",
     icon: GraduationCap,
     image: "", // custom academy logo
   },
   {
-    title: "Alnnovate Community",
+    title: "AreaKnotch Labs Community",
     description:
       "A vibrant hub of developers and innovators with forums, Discord/Slack groups, hackathons, and knowledge sharing.",
     icon: Users,
     image: "", // custom community logo
   },
   {
-    title: "Alnnovate Trainers",
+    title: "AreaKnotch Labs Trainers",
     description:
       "Internship programs and real-world projects for students to gain hands-on industry experience and grow their careers.",
     icon: Briefcase,
@@ -32,9 +32,9 @@ export default function BranchesSection() {
   return (
     <section className="mx-auto max-w-7xl px-4 py-20">
       <div className="text-center mb-14">
-        <h2 className="text-3xl sm:text-4xl font-bold mb-4">The Alnnovate Ecosystem</h2>
+        <h2 className="text-3xl sm:text-4xl font-bold mb-4">The AreaKnotch Labs Ecosystem</h2>
         <p className="text-lg max-w-2xl mx-auto">
-          Alnnovate is more than just a tech brand – it’s a complete ecosystem designed to empower students, developers, and businesses through education, collaboration, and opportunities.
+          AreaKnotch Labs is more than just a tech brand – it’s a complete ecosystem designed to empower students, developers, and businesses through education, collaboration, and opportunities.
         </p>
       </div>
 

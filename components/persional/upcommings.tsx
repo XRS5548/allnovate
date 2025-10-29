@@ -24,7 +24,7 @@ const events = [
     mode: "Hybrid",
   },
   {
-    title: "Alnnovate Community Meetup",
+    title: "AreaKnotch Labs Community Meetup",
     date: "Nov 5, 2025",
     category: "Community",
     desc: "Exclusive Discord hackathon with prizes and networking.",
@@ -57,7 +57,7 @@ export default function EventsPage() {
           viewport={{ once: true }}
           className="text-4xl font-bold text-center mb-12"
         >
-          What’s Next at <span className="text-primary">Alnnovate</span>
+          What’s Next at <span className="text-primary">AreaKnotch Labs</span>
         </motion.h2>
 
         {/* Category Tabs */}
