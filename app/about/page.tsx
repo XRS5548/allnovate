@@ -75,14 +75,14 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto mt-8">
             <Card className="rounded-2xl shadow-md">
               <CardContent className="p-6 text-center">
-                <h3 className="text-xl font-bold">Michael Carter</h3>
+                <h3 className="text-xl font-bold">Rohit Verma</h3>
                 <p className="text-muted-foreground">Founder & CEO</p>
               </CardContent>
             </Card>
             <Card className="rounded-2xl shadow-md">
               <CardContent className="p-6 text-center">
-                <h3 className="text-xl font-bold">Ashish Kumar Regar</h3>
-                <p className="text-muted-foreground">Co-Founder & CTO</p>
+                <h3 className="text-xl font-bold">Saniya Khan</h3>
+                <p className="text-muted-foreground">Co-Founder & COO</p>
               </CardContent>
             </Card>
           </div>

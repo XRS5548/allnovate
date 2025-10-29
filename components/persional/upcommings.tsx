@@ -12,7 +12,7 @@ const events = [
     date: "Sept 30, 2025",
     category: "AI Tools",
     desc: "Introducing our latest AI model that converts plain text to SQL queries.",
-    image: "/events/sqltool.jpg",
+    image: "/images/text2sql.png",
     mode: "Online",
   },
   {
@@ -20,7 +20,7 @@ const events = [
     date: "Oct 10, 2025",
     category: "Workshops",
     desc: "Hands-on training in data cleaning, ML models, and real projects.",
-    image: "/events/datascience.jpg",
+    image: "/images/datascience.png",
     mode: "Hybrid",
   },
   {
@@ -28,7 +28,7 @@ const events = [
     date: "Nov 5, 2025",
     category: "Community",
     desc: "Exclusive Discord hackathon with prizes and networking.",
-    image: "/events/meetup.jpg",
+    image: "/images/comunity.png",
     mode: "Online",
   },
   {
@@ -36,7 +36,7 @@ const events = [
     date: "Nov 15, 2025",
     category: "Training",
     desc: "Learn MERN stack with mentorship, projects, and certification.",
-    image: "/events/webdev.jpg",
+    image: "/images/fullstack.png",
     mode: "Hybrid",
   },
 ]
